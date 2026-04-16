@@ -1,1 +1,11 @@
-{"platforms":{"windows-x86_64":{"signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzlNUENZQjJ3R1B5WHRpK1pUMmVhbXIyVUJ3QU5YN2U1SUNsdUpnQ3RkTmZYYno4ajRZemJieldubkZzd3lPVHFPMFB4S09KTVlVcUFtbENLd3hMVmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzE1MTQ2CWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjAuMTRfeDY0LXNldHVwLmV4ZQo0MnBBK3FiSUZPR2ZWcnhkMzRnYi95TlNROGhHS2l6ckVDRFZNU2lwOEJhRk5wdVRFTE1qbTh4c1A4eFBSUlBReExYNDR6cXl5TFU3cVl6dnFtV3NEQT09Cg==","url":"https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.0.14/TLI-Sattatracker_1.0.14_x64-setup.exe"}},"pub_date":"2026-04-16T09:54:05Z","version":"1.0.14","notes":"Fix click-through bug on the update window, make F8 toggles more resilient, and bump version accurately."}
+﻿{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bytlS3l5cW5oU0swUTcvK2VXdWRjY2lPWE9jWHlmR3N1WTFBZ3ZBdlJuWWFuVTI0ckk3SGdhMG1peXFUSEVoMmZiY0tpeDdWTTJ6TGlqbEJ1N3JITHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzE1ODQ1CWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjAuMTVfeDY0LXNldHVwLmV4ZQp0UGc3MmlMbnovQjZScDBHdWxIQ3d6TnpEaXVyWlUwUTZUNXdpTnRTSWVHcU1kdGRkcEpsTUxWQ0t4eDVjWkVOUmZNRGJMWnhXV2ROL0F1RFlKSG5BQT09Cg==",
+                                             "url":  "https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.0.15/TLI-Sattatracker_1.0.15_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-04-16T10:04:36Z",
+    "version":  "1.0.15",
+    "notes":  "Test update to 1.0.15"
+}
