@@ -1,11 +1,11 @@
 {
-    "version": "1.1.3",
-    "pub_date": "2026-04-16T06:31:30Z",
-    "notes": "Fix: hide taskbar strip; Add F7 hotkey to toggle overlay",
+    "version": "1.1.4",
+    "pub_date": "2026-04-16T06:34:45Z",
+    "notes": "Fix: remove white title bar strip",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzhUVmNzZlUyMnVMNTNReTIya3Z0cHpON1FJZVZrUjh4R1E0RXNuKzZWL3NWdmgxWVloaFRDcXgwYnBiekZoc1QyS2ZLU0ZpMmJLT2Yvb3ZUeFdSRndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzIxMDQ0CWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjEuM194NjQtc2V0dXAuZXhlClVxUkF4azBqVkdWRmRYQjlJZERpa25TQ2hRZnpUOXprbk1wVGl1ajhuZGhmcWdzOWlSZXd4a2hFN0RmdVMrbFh0Q1dETk4wQlBEMXgwQXRZdmYwS0FnPT0K",
-            "url": "https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.1.3/TLI-Sattatracker_1.1.3_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzk4UjAyWTlJNHRNQTUvbDI2WjI5ZW52YVZRbzd4T2Jia3c4WktGTDlYN0hwOUZKMlN4bHBWSG8vVDk4WjV5VDB3TFBTUTdBYjlDSCthL3MwODl1TEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzIxMjU2CWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjEuNF94NjQtc2V0dXAuZXhlCnpYOU9DYmRpZVM1ZmNzMERBRE1HZUd5VjY0a1ByV2Uwbk5tbU91dVRBVTh5NGRjOVBwR2w5aDhqMkhXamhHaVI4OEVpcVF4YUpmZ0lMVEQybTcyekFBPT0K",
+            "url": "https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.1.4/TLI-Sattatracker_1.1.4_x64-setup.exe"
         }
     }
 }
