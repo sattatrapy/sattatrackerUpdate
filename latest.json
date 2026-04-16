@@ -1,11 +1,11 @@
 {
   "version": "1.0.13",
-  "notes": "Auto-update v1.0.13",
-  "pub_date": "2026-04-16T09:05:22Z",
+  "notes": "Auto-update v1.0.13 from public repo",
+  "pub_date": "2026-04-16T09:11:22Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTkxFNkw5L0xoRXdHRjJZQWF4Q2thZVYxSVVCYjZ1bUU3aXlsRldnRVNmd0ZSYXRpazFzbnJGWGJqLzg5WmYwVzNwOThxUndGNWVjTmZLc3BJd0ZpYnpxdHJ5SHcxWGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzExODU0CWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjAuMTNfeDY0LXNldHVwLmV4ZQprd1B4Y1F4TmV4QVJuODZ2a2tGR09vSXUvRzJjRWNmRzNraVJlaDQvOU1XWEgvbHpJbEZuclB5NVdmVFA3ZWE3Q2phMUdlckFNZFVSUy9VN1pubTBCQT09Cg==",
-      "url": "https://github.com/sattatrapy/sattatracker/releases/download/v1.0.13/TLI-Sattatracker_1.0.13_x64-setup.exe"
+      "url": "https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.0.13/TLI-Sattatracker_1.0.13_x64-setup.exe"
     }
   }
 }
