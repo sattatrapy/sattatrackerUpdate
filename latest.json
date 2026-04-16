@@ -1,11 +1,11 @@
 {
-    "version": "1.1.2",
-    "pub_date": "2026-04-16T06:27:25Z",
-    "notes": "Fix: settings menu closes and reopens correctly",
+    "version": "1.1.3",
+    "pub_date": "2026-04-16T06:31:30Z",
+    "notes": "Fix: hide taskbar strip; Add F7 hotkey to toggle overlay",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzJaeHdOV3lpeXBMM2hoQms0bytZS0RMcWg3QjlDRENqYUU1Q3lZMUpCL2lXZ0xMampqMmFCY2ZPQkxFOFc4YWZET0EwVnJTenROQSs3dGpkTUl6Z2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzIwODE3CWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjEuMl94NjQtc2V0dXAuZXhlCmU4YmsvRHFjam4xNS9RVXBkU0NCVmVPM1JrYkFBaTdhSyt0UGdhNFVtY3orekVSRURlVmpWOVh5OGV4R0IvUlRwdG9NUHZQcEhiY1JMcmtnVllPOUJBPT0K",
-            "url": "https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.1.2/TLI-Sattatracker_1.1.2_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzhUVmNzZlUyMnVMNTNReTIya3Z0cHpON1FJZVZrUjh4R1E0RXNuKzZWL3NWdmgxWVloaFRDcXgwYnBiekZoc1QyS2ZLU0ZpMmJLT2Yvb3ZUeFdSRndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzIxMDQ0CWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjEuM194NjQtc2V0dXAuZXhlClVxUkF4azBqVkdWRmRYQjlJZERpa25TQ2hRZnpUOXprbk1wVGl1ajhuZGhmcWdzOWlSZXd4a2hFN0RmdVMrbFh0Q1dETk4wQlBEMXgwQXRZdmYwS0FnPT0K",
+            "url": "https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.1.3/TLI-Sattatracker_1.1.3_x64-setup.exe"
         }
     }
 }
