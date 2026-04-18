@@ -1,11 +1,11 @@
 {
-    "version": "1.1.6",
-    "pub_date": "2026-04-18T10:52:16Z",
-    "notes": "Fixed title white line",
+    "version": "1.1.7",
+    "pub_date": "2026-04-18T17:59:28Z",
+    "notes": "Lunaria Price Update: prices now automatically use the correct season (Lunaria 1401)\nLunaria Items Update: added 578 new item names for the current season",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzlnLzU2bWppclpucDV5THVoYmN5ODZWYkVEVFZMQmQrY01WLzF6ckhoY1hCWTJMaUQ4ZzAvak1QR2oybkVlVUhsbFdXQ1JUOFJDeVpVZ085WjNsUHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTA5NDY4CWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjEuNl94NjQtc2V0dXAuZXhlCmk1Uk96d3g1dnpjNEtkR2NKV29NUmh2UVpsRWZ5S1U4S0ljYUFVQ0tQcFBJRHZVWjlDSjNWOUxCdU50ak5lRXYzblJwaVdzZGRlcDdNQXNTWElIQ0JRPT0K",
-            "url": "https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.1.6/TLI-Sattatracker_1.1.6_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzAyQXVqVTRlQWRKb0poU1lpak16Ym1KcFhiYlhpZklERFlLY1JuN0tTdkFWTEdySjh6YTBLKzJVUVlHOGF0MFRDUXhqd3ZQUEFQcjBOc3Budmc2Q1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTM0MDgwCWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjEuN194NjQtc2V0dXAuZXhlCjRsQndEcG9BMzhocDQ4UVRic0tCM21LcDdSb1Vub1dUcHJTbERyOVJEK2oxdzJIdkFUZk1BZjRHUkRLK0s1TkhoOFhhUS9oWXBTeUJxQ2d1NjBtWkJBPT0K",
+            "url": "https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.1.7/TLI-Sattatracker_1.1.7_x64-setup.exe"
         }
     }
 }
