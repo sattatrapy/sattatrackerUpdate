@@ -1,11 +1,11 @@
 {
-    "version": "1.1.5",
-    "pub_date": "2026-04-18T10:45:35Z",
+    "version": "1.1.6",
+    "pub_date": "2026-04-18T10:52:16Z",
     "notes": "Fixed title white line",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzlxRlhPaEF3c1daQzFQdXFaZFpVMmcvKzloYW0yNnlQbUNnUjNPbC96RkxVZUNQN2J4ZkpUczJ0TGNncHBTTXJ5YytVTEZFWENsYm5QNmxsa1ZLSGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTA5MDQxCWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjEuNV94NjQtc2V0dXAuZXhlClVSWGdwcDNmRXJlUzJaWDJOdVhGT3hnZjBQNTVpc2IyUTNMSXlhcFEyKzJXdWN1NDlYMzl2Q0dNUitrVmtQYnNnZFErNzBaUVhNVTA4T09tWldpOUFRPT0K",
-            "url": "https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.1.5/TLI-Sattatracker_1.1.5_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzlnLzU2bWppclpucDV5THVoYmN5ODZWYkVEVFZMQmQrY01WLzF6ckhoY1hCWTJMaUQ4ZzAvak1QR2oybkVlVUhsbFdXQ1JUOFJDeVpVZ085WjNsUHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTA5NDY4CWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjEuNl94NjQtc2V0dXAuZXhlCmk1Uk96d3g1dnpjNEtkR2NKV29NUmh2UVpsRWZ5S1U4S0ljYUFVQ0tQcFBJRHZVWjlDSjNWOUxCdU50ak5lRXYzblJwaVdzZGRlcDdNQXNTWElIQ0JRPT0K",
+            "url": "https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.1.6/TLI-Sattatracker_1.1.6_x64-setup.exe"
         }
     }
 }
