@@ -1,11 +1,11 @@
 {
-    "version": "1.1.9",
-    "pub_date": "2026-04-19T04:40:00Z",
-    "notes": "Price Cache Fix / Added item list in Inventory",
+    "version": "1.2.0",
+    "pub_date": "2026-04-19T16:26:45Z",
+    "notes": "Fixed inventory sync bug / Added FX time settings / Added Hideout stoptimer option",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzBmeUpXVnJsNm0vTEdjY3NUeW9PbVA2T014V09UVjlYdFdKY0lMbDBjbFNCVHFIaFM1anFjWkE1OUNwemZkWjFSc1Z4eUdaTC9LLzRUQ2RTQ1BEeVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTcyNzUxCWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjEuOV94NjQtc2V0dXAuZXhlCnZMQ2JuczBHY1ZEK1hoTm5ranladmZyTURvVlFXOEFOalBaNUcyZEhReE4rKzFocnFySTU3YVRHMFdzWG5Ea3VYOWZsMkVnSHFyd1FiMDZtVCtWbUJ3PT0K",
-            "url": "https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.1.9/TLI-Sattatracker_1.1.9_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40b3g2UVVQNmtqTi9IUUpNaElXL0swNzdPRDJUaXdoZU8rdkNTOGNSTmF2OHNwaXFBYVZ2Vi9kUXJteDdKeERrazYzcW5hK0s4NVRubVdkY21GdDJmMEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NjE1MjU1CWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjIuMF94NjQtc2V0dXAuZXhlCmlPZ291SW5iQkNyT0htRnhGc2hzbFhWQm1yQlE1dUtacERWUzRWd3ExTFhueGpiOWtDTSt1emNRNGhsUzN4dXhqWDcxZXJQSHN0RWRIcXN6aXRrd0J3PT0K",
+            "url": "https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.2.0/TLI-Sattatracker_1.2.0_x64-setup.exe"
         }
     }
 }
