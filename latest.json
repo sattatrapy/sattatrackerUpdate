@@ -1,11 +1,11 @@
 {
-    "version": "1.1.8",
-    "pub_date": "2026-04-19T00:13:31Z",
-    "notes": "Fix: loot feed no longer overflows widget boundaries",
+    "version": "1.1.9",
+    "pub_date": "2026-04-19T04:40:00Z",
+    "notes": "Price Cache Fix / Added item list in Inventory",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40b3pCd1pYMk85elVqRi9TR1J6eXpLRmJHeWNvOUd0Mmd0Tlo0V25LejlwSTJSdU9DQkorVGZIWlNFTisvS1VnY24vUW9kZ1BNaHVaVnJQWjRwbE13NVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTU0OTUyCWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjEuOF94NjQtc2V0dXAuZXhlCnY2MkhBdUY4ZUZOUTdFMlR2VEVxYkxkMXhNVHo3bGdvUExFemM5WGhYZVlSK1drREJ3dVBRR1Z4eWdXQUp6U3krd0pqQnFFMXNHMjVOWkwyaEJmVkJnPT0K",
-            "url": "https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.1.8/TLI-Sattatracker_1.1.8_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzBmeUpXVnJsNm0vTEdjY3NUeW9PbVA2T014V09UVjlYdFdKY0lMbDBjbFNCVHFIaFM1anFjWkE1OUNwemZkWjFSc1Z4eUdaTC9LLzRUQ2RTQ1BEeVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTcyNzUxCWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjEuOV94NjQtc2V0dXAuZXhlCnZMQ2JuczBHY1ZEK1hoTm5ranladmZyTURvVlFXOEFOalBaNUcyZEhReE4rKzFocnFySTU3YVRHMFdzWG5Ea3VYOWZsMkVnSHFyd1FiMDZtVCtWbUJ3PT0K",
+            "url": "https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.1.9/TLI-Sattatracker_1.1.9_x64-setup.exe"
         }
     }
 }
