@@ -1,11 +1,11 @@
 {
-    "version": "1.1.7",
-    "pub_date": "2026-04-18T17:59:28Z",
-    "notes": "Lunaria Price Update: prices now automatically use the correct season (Lunaria 1401)\nLunaria Items Update: added 578 new item names for the current season",
+    "version": "1.1.8",
+    "pub_date": "2026-04-19T00:13:31Z",
+    "notes": "Fix: loot feed no longer overflows widget boundaries",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzAyQXVqVTRlQWRKb0poU1lpak16Ym1KcFhiYlhpZklERFlLY1JuN0tTdkFWTEdySjh6YTBLKzJVUVlHOGF0MFRDUXhqd3ZQUEFQcjBOc3Budmc2Q1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTM0MDgwCWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjEuN194NjQtc2V0dXAuZXhlCjRsQndEcG9BMzhocDQ4UVRic0tCM21LcDdSb1Vub1dUcHJTbERyOVJEK2oxdzJIdkFUZk1BZjRHUkRLK0s1TkhoOFhhUS9oWXBTeUJxQ2d1NjBtWkJBPT0K",
-            "url": "https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.1.7/TLI-Sattatracker_1.1.7_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40b3pCd1pYMk85elVqRi9TR1J6eXpLRmJHeWNvOUd0Mmd0Tlo0V25LejlwSTJSdU9DQkorVGZIWlNFTisvS1VnY24vUW9kZ1BNaHVaVnJQWjRwbE13NVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTU0OTUyCWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjEuOF94NjQtc2V0dXAuZXhlCnY2MkhBdUY4ZUZOUTdFMlR2VEVxYkxkMXhNVHo3bGdvUExFemM5WGhYZVlSK1drREJ3dVBRR1Z4eWdXQUp6U3krd0pqQnFFMXNHMjVOWkwyaEJmVkJnPT0K",
+            "url": "https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.1.8/TLI-Sattatracker_1.1.8_x64-setup.exe"
         }
     }
 }
