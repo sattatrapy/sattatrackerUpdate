@@ -1,11 +1,11 @@
 {
-    "version": "1.2.2",
-    "pub_date": "2026-04-20T00:55:48Z",
-    "notes": "Fixed DLL entry point crash after update",
+    "version": "1.2.3",
+    "pub_date": "2026-04-20T00:00:00Z",
+    "notes": "[BETA] added FX pack",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzJEbFozdmhKYkRRR2c1ODVnd01ZVmxLMGU0LzdxYW0vUytnUVR5ejBxdUF3bnBqRXc1ZDZ1Q0dsanBZV2ZsaEhmVHRGVytzT0wzK29uZGgxdjMyZHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NjQ2NTE3CWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjIuMl94NjQtc2V0dXAuZXhlCjIxVmRwZnhuTWNMNjdscGkvVVlCZ2Y2bS9udDQ5anowWStHZ3B0MXdwVVZzcEtuQncrY3krUnU3MXB4R0tRbVBDU3FRWUMwOWxGeWc1UWEvK3czQUNRPT0K",
-            "url": "https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.2.2/TLI-Sattatracker_1.2.2_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzR4TFlSdVZRL0g3SWRwYlZFWi9Zc0JmODY0ZVRraEl6M3Z4ejRTNXhwVFd0bkNVaThCUUZxTHN6YzQ5dHJsRjZFZlJjVSt1TmlIaGJZTUg1dDExS1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NjUxOTg5CWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjIuM194NjQtc2V0dXAuZXhlCitNU091MnBEZXp0cFd5Q2hjMlI1VXlYMkRuNjBCOVArT0xpdDJjUGhDek9SRXNNa3hEQ2VXck4wK0hPdWlyeU9vWlZoWkwxNlc4TENUNjdia1dCZ0FBPT0K",
+            "url": "https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.2.3/TLI-Sattatracker_1.2.3_x64-setup.exe"
         }
     }
 }
