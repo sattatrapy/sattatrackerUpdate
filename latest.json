@@ -1,11 +1,11 @@
 {
-    "version": "1.2.0",
-    "pub_date": "2026-04-19T16:26:45Z",
-    "notes": "Fixed inventory sync bug / Added FX time settings / Added Hideout stoptimer option",
+    "version": "1.2.1",
+    "pub_date": "2026-04-20T00:46:41Z",
+    "notes": "Fixed log file detection / Added FX position settings / Welcome screen / Admin rights",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40b3g2UVVQNmtqTi9IUUpNaElXL0swNzdPRDJUaXdoZU8rdkNTOGNSTmF2OHNwaXFBYVZ2Vi9kUXJteDdKeERrazYzcW5hK0s4NVRubVdkY21GdDJmMEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NjE1MjU1CWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjIuMF94NjQtc2V0dXAuZXhlCmlPZ291SW5iQkNyT0htRnhGc2hzbFhWQm1yQlE1dUtacERWUzRWd3ExTFhueGpiOWtDTSt1emNRNGhsUzN4dXhqWDcxZXJQSHN0RWRIcXN6aXRrd0J3PT0K",
-            "url": "https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.2.0/TLI-Sattatracker_1.2.0_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzQveVpJc3pHN2RPNjR4RDQramNEQXVLc1VySkl3QSt2QXl3anR2aHRDUUVhOEJrUEw1MjlkOTBzQzBEdFRQc1VjWmRnMTkyQ0p3Q0gvVHg4R1hiUmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NjQ1OTQyCWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjIuMV94NjQtc2V0dXAuZXhlClFoRE93YVJDZlZBWVo4Nm9EUkl4VDl0VVE3SUMyYVFKS0I0S1JjVnNCMDdlR0gvMEZsTHlYSC91VXFRQ3NaK3dudTVFZDF2d1JXV2crS1dXQjk3ekRnPT0K",
+            "url": "https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.2.1/TLI-Sattatracker_1.2.1_x64-setup.exe"
         }
     }
 }
