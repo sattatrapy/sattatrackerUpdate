@@ -1,11 +1,11 @@
 {
-    "version": "1.2.1",
-    "pub_date": "2026-04-20T00:46:41Z",
-    "notes": "Fixed log file detection / Added FX position settings / Welcome screen / Admin rights",
+    "version": "1.2.2",
+    "pub_date": "2026-04-20T00:55:48Z",
+    "notes": "Fixed DLL entry point crash after update",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzQveVpJc3pHN2RPNjR4RDQramNEQXVLc1VySkl3QSt2QXl3anR2aHRDUUVhOEJrUEw1MjlkOTBzQzBEdFRQc1VjWmRnMTkyQ0p3Q0gvVHg4R1hiUmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NjQ1OTQyCWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjIuMV94NjQtc2V0dXAuZXhlClFoRE93YVJDZlZBWVo4Nm9EUkl4VDl0VVE3SUMyYVFKS0I0S1JjVnNCMDdlR0gvMEZsTHlYSC91VXFRQ3NaK3dudTVFZDF2d1JXV2crS1dXQjk3ekRnPT0K",
-            "url": "https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.2.1/TLI-Sattatracker_1.2.1_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzJEbFozdmhKYkRRR2c1ODVnd01ZVmxLMGU0LzdxYW0vUytnUVR5ejBxdUF3bnBqRXc1ZDZ1Q0dsanBZV2ZsaEhmVHRGVytzT0wzK29uZGgxdjMyZHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NjQ2NTE3CWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjIuMl94NjQtc2V0dXAuZXhlCjIxVmRwZnhuTWNMNjdscGkvVVlCZ2Y2bS9udDQ5anowWStHZ3B0MXdwVVZzcEtuQncrY3krUnU3MXB4R0tRbVBDU3FRWUMwOWxGeWc1UWEvK3czQUNRPT0K",
+            "url": "https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.2.2/TLI-Sattatracker_1.2.2_x64-setup.exe"
         }
     }
 }
