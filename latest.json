@@ -1,11 +1,11 @@
 {
-    "version": "1.2.4",
-    "pub_date": "2026-04-21T00:00:00Z",
-    "notes": "Fixed auto-update for CIS users (jsDelivr CDN + Cloudflare R2)",
-    "platforms": {
-        "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzFRTkIvWjc1eEg5SkVSQktUTzc1S3NvL0RGZSt0TVBid3ZkejFzWmVBSzVIVUIwYlAyWXZ4cUhZOU9ZVGtzcFZzR2MydEtnZnBPRGpOK1R5clFZT2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NzUyMDc0CWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjIuNF94NjQtc2V0dXAuZXhlCms0QU1DTlUvamJwc0xqSHJQVFdiYXlLK2xXeTlBSGkzcVl6TkN3ZkJNOHV0ZHZwMkdFS1V0clcrV1RNbVNtL0plNmsvYysyY0FxR0hJV0VkUUJKakRRPT0K",
-            "url": "https://pub-611500dd84934d76846cf66f0a63d7fc.r2.dev/TLI-Sattatracker_1.2.4_x64-setup.exe"
-        }
+  "version": "1.2.5",
+  "notes": "Fixed Desert District tracking (map stats now tracked correctly)",
+  "pub_date": "2026-04-21T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzRXZU5JYWIvMzlWOERHOVVxSFFUWjdyVFAxcFZndzFheXowdGh5N3lGRkYxNVY2dC90Wit2cndVTGR5Q0dndUg5UHJUM3oyVmZPVWZrK0hDQjRmQndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NzUzOTE5CWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjIuNV94NjQtc2V0dXAuZXhlCnMxZmxEeHgxS2dZaTg2d05zUnE1aWFnS2VURW0ya1BEbElIR0FwNC8vUTVRT0dlTCtRUm05VXlUWnFqR3ZseUh3cU5TTXI4RE4xVWRYWjBzNkM2SEJBPT0K",
+      "url": "https://pub-611500dd84934d76846cf66f0a63d7fc.r2.dev/TLI-Sattatracker_1.2.5_x64-setup.exe"
     }
+  }
 }
