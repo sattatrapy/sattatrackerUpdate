@@ -1,11 +1,11 @@
 {
-    "version": "1.2.3",
-    "pub_date": "2026-04-20T00:00:00Z",
-    "notes": "[BETA] added FX pack",
+    "version": "1.2.4",
+    "pub_date": "2026-04-21T00:00:00Z",
+    "notes": "Fixed auto-update for CIS users (jsDelivr CDN + Cloudflare R2)",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzR4TFlSdVZRL0g3SWRwYlZFWi9Zc0JmODY0ZVRraEl6M3Z4ejRTNXhwVFd0bkNVaThCUUZxTHN6YzQ5dHJsRjZFZlJjVSt1TmlIaGJZTUg1dDExS1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NjUxOTg5CWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjIuM194NjQtc2V0dXAuZXhlCitNU091MnBEZXp0cFd5Q2hjMlI1VXlYMkRuNjBCOVArT0xpdDJjUGhDek9SRXNNa3hEQ2VXck4wK0hPdWlyeU9vWlZoWkwxNlc4TENUNjdia1dCZ0FBPT0K",
-            "url": "https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.2.3/TLI-Sattatracker_1.2.3_x64-setup.exe"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzFRTkIvWjc1eEg5SkVSQktUTzc1S3NvL0RGZSt0TVBid3ZkejFzWmVBSzVIVUIwYlAyWXZ4cUhZOU9ZVGtzcFZzR2MydEtnZnBPRGpOK1R5clFZT2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NzUyMDc0CWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjIuNF94NjQtc2V0dXAuZXhlCms0QU1DTlUvamJwc0xqSHJQVFdiYXlLK2xXeTlBSGkzcVl6TkN3ZkJNOHV0ZHZwMkdFS1V0clcrV1RNbVNtL0plNmsvYysyY0FxR0hJV0VkUUJKakRRPT0K",
+            "url": "https://pub-611500dd84934d76846cf66f0a63d7fc.r2.dev/TLI-Sattatracker_1.2.4_x64-setup.exe"
         }
     }
 }
