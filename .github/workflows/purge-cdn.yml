@@ -22,13 +22,17 @@ jobs:
           git tag -f latest
           git push -f origin latest
 
-      - name: Purge @latest CDN
-        run: curl -s "https://purge.jsdelivr.net/gh/sattatrapy/sattatrackerUpdate@latest/latest.json"
+      - name: Purge tag reference
+        run: curl -s "https://purge.jsdelivr.net/gh/sattatrapy/sattatrackerUpdate@latest"
 
       - name: Wait
-        run: sleep 5
+        run: sleep 3
+
+      - name: Purge file
+        run: curl -s "https://purge.jsdelivr.net/gh/sattatrapy/sattatrackerUpdate@latest/latest.json"
 
       - name: Verify CDN
         run: |
+          sleep 5
           VERSION=$(curl -s "https://cdn.jsdelivr.net/gh/sattatrapy/sattatrackerUpdate@latest/latest.json" | grep '"version"' | head -1)
           echo "CDN serving: $VERSION"
