@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzF0ZnlKM0luKzRDNnpNSjkxMHNZUGs5c0F0ZkpvMi94YU00TGZqTktKWUVHaHBHNDZHUldIdWgwR0UxRXZCRzlRQlg4bHlRNW5QemNIMnIvbStQMFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTM3NjkyCWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjIuNl94NjQtc2V0dXAuZXhlCmNaYkRpeEtIdzFVQUpGQm9nOVJRODdUTG9EeFJnSlVNN1NtM3g1YlRLR0lTVWtMSXNJM2N0UzJqRThTbzYwYTFTNXRaVXRnVENvTU5CWHBlRWZkWER3PT0K",
-      "url": "https://github.com/sattatrapy/sattatrackerUpdate/releases/download/v1.2.6/TLI-Sattatracker_1.2.6_x64-setup.exe"
+      "url": "https://pub-611500dd84934d76846cf66f0a63d7fc.r2.dev/TLI-Sattatracker_1.2.6_x64-setup.exe"
     }
   }
 }
