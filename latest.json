@@ -1,11 +1,11 @@
 {
-  "version": "1.2.6",
-  "notes": "- Исправлен трекинг Desert District карт\n- Исправлен дроп-эффект: до 100 FE обводка вместо свечения\n- Оптимизация FPS: RAF-loop останавливается при отсутствии частиц\n- Предупреждение о низком запасе компасов (<=3 штуки)",
-  "pub_date": "2026-04-23T10:00:00Z",
+  "version": "1.2.7",
+  "notes": "- Кеш цен сохраняется на диск: при недоступности сервера используются последние известные цены вместо 0",
+  "pub_date": "2026-04-23T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzF0ZnlKM0luKzRDNnpNSjkxMHNZUGs5c0F0ZkpvMi94YU00TGZqTktKWUVHaHBHNDZHUldIdWgwR0UxRXZCRzlRQlg4bHlRNW5QemNIMnIvbStQMFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTM3NjkyCWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjIuNl94NjQtc2V0dXAuZXhlCmNaYkRpeEtIdzFVQUpGQm9nOVJRODdUTG9EeFJnSlVNN1NtM3g1YlRLR0lTVWtMSXNJM2N0UzJqRThTbzYwYTFTNXRaVXRnVENvTU5CWHBlRWZkWER3PT0K",
-      "url": "https://pub-611500dd84934d76846cf66f0a63d7fc.r2.dev/TLI-Sattatracker_1.2.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40b3lDSTcyVDJMMFlsUjZkNkhuN1FKd09zUVYwbSt0Zi9tVTZEdlpVcHB3NFBPNHBXampZRjA4cHh5cFdUbzRuRVJZOXN5LzZVS0RZN2JaU2h1QzVoSEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTQ0MDk3CWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjIuN194NjQtc2V0dXAuZXhlCnBjYUIrZStPUTNSajZJbXRrSXlFdXlSVmtJS0V1RGpmWmZNOUJBUVlETGFqM0VsVGxZOWVIV01abWJWcHFmRHF6ekFET1RQTDRIelJKeWlSVEdJUUF3PT0K",
+      "url": "https://pub-611500dd84934d76846cf66f0a63d7fc.r2.dev/TLI-Sattatracker_1.2.7_x64-setup.exe"
     }
   }
 }
