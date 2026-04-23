@@ -1,7 +1,7 @@
 {
   "version": "1.2.6",
-  "notes": "- Исправлен трекинг Desert District карт\n- Исправлен дроп-эффект: до 100 FE обводка вместо свечения\n- Оптимизация FPS: RAF-loop останавливается при отсутствии частиц\n- Предупреждение о низком запасе компасов (≤3 штуки)",
-  "pub_date": "2026-04-23T00:00:00Z",
+  "notes": "- Исправлен трекинг Desert District карт\n- Исправлен дроп-эффект: до 100 FE обводка вместо свечения\n- Оптимизация FPS: RAF-loop останавливается при отсутствии частиц\n- Предупреждение о низком запасе компасов (<=3 штуки)",
+  "pub_date": "2026-04-23T10:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzF0ZnlKM0luKzRDNnpNSjkxMHNZUGs5c0F0ZkpvMi94YU00TGZqTktKWUVHaHBHNDZHUldIdWgwR0UxRXZCRzlRQlg4bHlRNW5QemNIMnIvbStQMFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTM3NjkyCWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjIuNl94NjQtc2V0dXAuZXhlCmNaYkRpeEtIdzFVQUpGQm9nOVJRODdUTG9EeFJnSlVNN1NtM3g1YlRLR0lTVWtMSXNJM2N0UzJqRThTbzYwYTFTNXRaVXRnVENvTU5CWHBlRWZkWER3PT0K",
