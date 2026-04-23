@@ -1,11 +1,11 @@
 {
-  "version": "1.2.7",
-  "notes": "- Кеш цен сохраняется на диск: при недоступности сервера используются последние известные цены вместо 0",
-  "pub_date": "2026-04-23T12:00:00Z",
+  "version": "1.2.8",
+  "notes": "- Low Stock Warning теперь можно включить/выключить в Settings",
+  "pub_date": "2026-04-23T13:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40b3lDSTcyVDJMMFlsUjZkNkhuN1FKd09zUVYwbSt0Zi9tVTZEdlpVcHB3NFBPNHBXampZRjA4cHh5cFdUbzRuRVJZOXN5LzZVS0RZN2JaU2h1QzVoSEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTQ0MDk3CWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjIuN194NjQtc2V0dXAuZXhlCnBjYUIrZStPUTNSajZJbXRrSXlFdXlSVmtJS0V1RGpmWmZNOUJBUVlETGFqM0VsVGxZOWVIV01abWJWcHFmRHF6ekFET1RQTDRIelJKeWlSVEdJUUF3PT0K",
-      "url": "https://pub-611500dd84934d76846cf66f0a63d7fc.r2.dev/TLI-Sattatracker_1.2.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzJBYjh0TG52cU9jbmllQlBHU1pZSDFycmhGOWhSUUhpcXh6Q0U3ZEZ4MHRhTWFtOVNpSUNDNmw5MzFRTjZQbm1iUFdzNTdoTGZvcXBmT1dkUGExaHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTQ0OTc4CWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjIuOF94NjQtc2V0dXAuZXhlCkh1Ri95Rk1tQWpONEJxaE01TzVWYllrRTZqTWZ6RlFIY3ZtQ0o1SDA3S1dtQU9IUGh4ZWlHS2VLTW9oRzdiN0swV0Q4bnJNMUFiTUhRVDZ5TnZWU0NRPT0K",
+      "url": "https://pub-611500dd84934d76846cf66f0a63d7fc.r2.dev/TLI-Sattatracker_1.2.8_x64-setup.exe"
     }
   }
 }
