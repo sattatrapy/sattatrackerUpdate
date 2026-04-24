@@ -1,11 +1,11 @@
 {
-  "version": "1.2.9",
-  "notes": "- Починен механизм авто-обновления: CDN теперь обновляется мгновенно после каждого релиза",
-  "pub_date": "2026-04-23T14:00:00Z",
+  "version": "1.2.10",
+  "notes": "- Починен диск-кэш цен: цены из кэша теперь сохраняются при 10-минутном обновлении если сервер недоступен",
+  "pub_date": "2026-04-24T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzZieWdkMGx1VW9wUlVoVlRrTklzQ3NYcTU5M1N5NGNsdU5uNlRxT0xUenpXNEJwVFVLSitoWllnMElKOXBNWWhkcjFjSmVRNzVXdTZZa2NibXFZSGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTQ1OTM2CWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjIuOV94NjQtc2V0dXAuZXhlCk4wdnR1bU1zTFdYUFlZVjdnT0FPNmNUWmtSRTkzZms3UkJLdUx5bk9lUDRDNEFxdlhuR1R1NWl3M21Xam9qVTRjTVlhWW1yZ2dTZWNJdjErY0JTR0J3PT0K",
-      "url": "https://pub-611500dd84934d76846cf66f0a63d7fc.r2.dev/TLI-Sattatracker_1.2.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzhKRXJtbldQczFCZ2dsREJkeXRubDFNSWR3cHFTN1RlU29wc2tsbDlsbytvcjhhMVEranVjRTNLejRwK3ZMYW1RTEE4NWNubzJqMTJKVTdjTms3T1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDA0MzA3CWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjIuMTBfeDY0LXNldHVwLmV4ZQpmRC9GcXVBeC90QmFRQ2RYUUZOYnFnN29PS0ZyK1VqdkZJUFRkbTJyMGI1VE5wZ1E0bjk2MG1TMTUvZTNzUmZIUEo3ZjV0K1M2UHBqai9QaWRoT2JDQT09Cg==",
+      "url": "https://pub-611500dd84934d76846cf66f0a63d7fc.r2.dev/TLI-Sattatracker_1.2.10_x64-setup.exe"
     }
   }
 }
