@@ -1,11 +1,11 @@
 {
-  "version": "1.2.10",
-  "notes": "- Починен диск-кэш цен: цены из кэша теперь сохраняются при 10-минутном обновлении если сервер недоступен",
-  "pub_date": "2026-04-24T12:00:00Z",
+  "version": "1.2.11",
+  "notes": "fix: агрегация предметов в лут-сессии — предметы больше не исчезают",
+  "pub_date": "2026-04-29T16:38:50Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzhKRXJtbldQczFCZ2dsREJkeXRubDFNSWR3cHFTN1RlU29wc2tsbDlsbytvcjhhMVEranVjRTNLejRwK3ZMYW1RTEE4NWNubzJqMTJKVTdjTms3T1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDA0MzA3CWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjIuMTBfeDY0LXNldHVwLmV4ZQpmRC9GcXVBeC90QmFRQ2RYUUZOYnFnN29PS0ZyK1VqdkZJUFRkbTJyMGI1VE5wZ1E0bjk2MG1TMTUvZTNzUmZIUEo3ZjV0K1M2UHBqai9QaWRoT2JDQT09Cg==",
-      "url": "https://pub-611500dd84934d76846cf66f0a63d7fc.r2.dev/TLI-Sattatracker_1.2.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaGMrdWFvWG40bzd1NS9hWE9kNjB3eXMwU1pxMmZRZ0xsZEltT2V1L3Y4SEpnZ1ovdzBGNDNBelQzcHpTbDBxRmZOcGMzdFlkYnFxcTluVjUwQUtGZkxKWDdkK2N2UUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDgwNjYyCWZpbGU6VExJLVNhdHRhdHJhY2tlcl8xLjIuMTFfeDY0LXNldHVwLmV4ZQpsaS9id0JQUDVveVBkdFRqaURLMjAwL3dUNFoxc0M2R0JRTEVWT3JGSjJLaUk0ZTFISkZZODN1VjV5VTJldlBFdHJDbG9Oc2wraTd6dDIwZGQyTW9EUT09Cg==",
+      "url": "https://pub-611500dd84934d76846cf66f0a63d7fc.r2.dev/TLI-Sattatracker_1.2.11_x64-setup.exe"
     }
   }
 }
